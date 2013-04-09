@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/ISYStinnett/Desktop/SchoolWorkOther/ProgrammingDependencies/eclipse/plugins/org.eclipse.osgi_3.8.2.v20130124-134944.jar" sourcepath="C:/Users/ISYStinnett/Desktop/SchoolWorkOther/ProgrammingDependencies/eclipse/plugins/org.eclipse.osgi_3.8.2.v20130124-134944.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ISYStinnett/Desktop/SchoolWorkOther/ProgrammingDependencies/eclipse/plugins/org.eclipse.core.commands_3.6.2.v20130123-162658.jar" sourcepath="C:/Users/ISYStinnett/Desktop/SchoolWorkOther/ProgrammingDependencies/eclipse/plugins/org.eclipse.core.commands_3.6.2.v20130123-162658.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ISYStinnett/Desktop/SchoolWorkOther/ProgrammingDependencies/eclipse/plugins/org.eclipse.equinox.common_3.6.100.v20120522-1841.jar" sourcepath="C:/Users/ISYStinnett/Desktop/SchoolWorkOther/ProgrammingDependencies/eclipse/plugins/org.eclipse.equinox.common_3.6.100.v20120522-1841.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ISYStinnett/Desktop/SchoolWorkOther/ProgrammingDependencies/eclipse/plugins/org.eclipse.equinox.registry_3.5.200.v20120522-1841.jar" sourcepath="C:/Users/ISYStinnett/Desktop/SchoolWorkOther/ProgrammingDependencies/eclipse/plugins/org.eclipse.equinox.registry_3.5.200.v20120522-1841.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ISYStinnett/Desktop/SchoolWorkOther/ProgrammingDependencies/eclipse/plugins/org.eclipse.core.runtime_3.8.0.v20120912-155025.jar" sourcepath="C:/Users/ISYStinnett/Desktop/SchoolWorkOther/ProgrammingDependencies/eclipse/plugins/org.eclipse.core.runtime_3.8.0.v20120912-155025.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ISYStinnett/Desktop/SchoolWorkOther/ProgrammingDependencies/eclipse/plugins/org.eclipse.text_3.5.200.v20120523-1310.jar" sourcepath="C:/Users/ISYStinnett/Desktop/SchoolWorkOther/ProgrammingDependencies/eclipse/plugins/org.eclipse.text_3.5.200.v20120523-1310.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ISYStinnett/Desktop/SchoolWorkOther/ProgrammingDependencies/eclipse/plugins/org.eclipse.swt.win32.win32.x86_64_3.100.1.v4236b.jar" sourcepath="C:/Users/ISYStinnett/Desktop/SchoolWorkOther/ProgrammingDependencies/eclipse/plugins/org.eclipse.swt.win32.win32.x86_64_3.100.1.v4236b.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ISYStinnett/Desktop/SchoolWorkOther/ProgrammingDependencies/eclipse/plugins/org.eclipse.jface_3.8.102.v20130123-162658.jar" sourcepath="C:/Users/ISYStinnett/Desktop/SchoolWorkOther/ProgrammingDependencies/eclipse/plugins/org.eclipse.jface_3.8.102.v20130123-162658.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ISYStinnett/Desktop/SchoolWorkOther/ProgrammingDependencies/eclipse/plugins/org.eclipse.jface.text_3.8.2.v20121126-164145.jar" sourcepath="C:/Users/ISYStinnett/Desktop/SchoolWorkOther/ProgrammingDependencies/eclipse/plugins/org.eclipse.jface.text_3.8.2.v20121126-164145.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ISYStinnett/Desktop/SchoolWorkOther/ProgrammingDependencies/eclipse/plugins/org.eclipse.ui.workbench_3.104.0.v20130204-164612.jar" sourcepath="C:/Users/ISYStinnett/Desktop/SchoolWorkOther/ProgrammingDependencies/eclipse/plugins/org.eclipse.ui.workbench_3.104.0.v20130204-164612.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ISYStinnett/Desktop/SchoolWorkOther/ProgrammingDependencies/eclipse/plugins/com.ibm.icu_4.4.2.v20110823.jar" sourcepath="C:/Users/ISYStinnett/Desktop/SchoolWorkOther/ProgrammingDependencies/eclipse/plugins/com.ibm.icu_4.4.2.v20110823.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ISYStinnett/Desktop/SchoolWorkOther/ProgrammingDependencies/eclipse/plugins/org.eclipse.ui.forms_3.5.200.v20120705-114351.jar" sourcepath="C:/Users/ISYStinnett/Desktop/SchoolWorkOther/ProgrammingDependencies/eclipse/plugins/org.eclipse.ui.forms_3.5.200.v20120705-114351.jar"/>
+	<classpathentry kind="lib" path="mailapi.jar"/>
+	<classpathentry kind="lib" path="mail.jar"/>
+	<classpathentry kind="lib" path="imap.jar"/>
+	<classpathentry kind="lib" path="smtp.jar"/>
+	<classpathentry kind="lib" path="pop3.jar"/>
+	<classpathentry kind="lib" path="window_manager.jar"/>
+	<classpathentry kind="lib" path="gimap.jar"/>
+	<classpathentry kind="lib" path="swing2swt.jar"/>
+	<classpathentry kind="lib" path="dsn.jar"/>
+	<classpathentry kind="lib" path="derbyclient.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.utility"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
